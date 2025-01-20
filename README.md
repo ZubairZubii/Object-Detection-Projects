@@ -61,17 +61,25 @@ lap==0.4.0
 
 > Placeholder for screenshots of **Vehicle Detection**, **PPE Detection**, and **Poker Hand Card Detection**.
 
-- **Vehicle Detection:**  
-![Image](https://github.com/user-attachments/assets/ab189b82-e19b-44e3-a87a-4abb210dd8c4)
-![Image](https://github.com/user-attachments/assets/9b3f9565-c0e3-4215-91f5-66649fd00827)
-![Image](https://github.com/user-attachments/assets/84c7a785-47b6-4bcc-8fc9-077317c0ad9e)
+- **Vehicle Detection:**
+  
+  ![Image](https://github.com/user-attachments/assets/ab189b82-e19b-44e3-a87a-4abb210dd8c4)
 
-- **PPE Detection:**  
-![Image](https://github.com/user-attachments/assets/d0c49c11-8688-43be-af76-4ec159ad33d5)
+  ![Image](https://github.com/user-attachments/assets/9b3f9565-c0e3-4215-91f5-66649fd00827)
 
-- **Poker Hand Card Detection:**  
-![Image](https://github.com/user-attachments/assets/41284f06-9a98-4d80-9bd4-18192b117635)
-![Image](https://github.com/user-attachments/assets/ae0cd534-b9b1-479c-846a-d42b709b183b)
+  ![Image](https://github.com/user-attachments/assets/84c7a785-47b6-4bcc-8fc9-077317c0ad9e)
+
+  
+- **PPE Detection:**
+  
+  ![Image](https://github.com/user-attachments/assets/d0c49c11-8688-43be-af76-4ec159ad33d5)
+
+
+- **Poker Hand Card Detection:**
+  
+  ![Image](https://github.com/user-attachments/assets/41284f06-9a98-4d80-9bd4-18192b117635)
+
+  ![Image](https://github.com/user-attachments/assets/ae0cd534-b9b1-479c-846a-d42b709b183b)
 
 ## 🎮 Demo
 
